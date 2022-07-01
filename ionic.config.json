@@ -1,0 +1,7 @@
+{
+  "name": "toxicDetector",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toxicDetector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

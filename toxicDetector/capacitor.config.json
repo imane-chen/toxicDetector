@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "toxicDetector",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
